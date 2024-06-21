@@ -25,4 +25,5 @@ void main() {
   ];
 
   array.asMap();
+  print(array);
 }
