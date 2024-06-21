@@ -10,4 +10,6 @@ void main() {
   user['isAdmin'] && user['isActive']
       ? print('Active admin')
       : print('Not an active admin');
+
+      
 }
