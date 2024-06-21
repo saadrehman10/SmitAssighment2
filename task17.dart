@@ -24,6 +24,5 @@ void main() {
     59
   ];
 
-  array.asMap();
-  print(array);
+  print(array.map((element) => element * element).toList());
 }
